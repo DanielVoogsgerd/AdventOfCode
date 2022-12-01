@@ -1,0 +1,32 @@
+fn main() {
+    part_one();
+    part_two();
+}
+
+fn part_one() {
+
+    todo!();
+    println!("{answer}");
+}
+
+fn part_two() {
+
+    todo!();
+    println!("{answer}");
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_part_one() {
+
+    }
+
+    #[test]
+    fn test_part_two() {
+
+    }
+}
+
